@@ -1,4 +1,6 @@
 # philippines
-npm install 
-install ejs
-install express
+
+Install
+#node
+#ejs
+#express
